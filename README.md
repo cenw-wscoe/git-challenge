@@ -7,7 +7,7 @@ Do you know Git?
 * [ ] clone practice repo (https://github.com/cenw-wscoe/git-challenge)
 * [ ] create a new branch _yourname_
 * [ ] create a yourname.md file
-* [ ] add sample tetx to new file
+* [ ] add sample text to new file
 * [ ] commit new file
 * [ ] push new branch
 * [ ] pull request
