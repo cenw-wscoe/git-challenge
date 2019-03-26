@@ -1,5 +1,7 @@
 # git-challenge
 
+You need to be a member of our group to push your branch to this repository but you can always fork it and push it to your remote and do a pull request from your fork into this repo.
+
 Do you know Git?
 
 * [ ] make sure [git](https://git-scm.com/) is installed on your computer
