@@ -6,7 +6,7 @@ Andrew
 
 ## What are 2 things that interest you
 
-* Personal Finance
+* TV and movies....oh man I need a hobby....
 * Software Development
 
 ## What is you favourite hockey team
