@@ -14,3 +14,4 @@ Do you know Git?
 * [ ] commit new file
 * [ ] push new branch
 * [ ] pull request
+* [ ] If you have permissions, merge the branches your own bad self
